@@ -1,0 +1,69 @@
+
+h1 {color:crimson; 
+    text-align:center;
+    font-family: sans-serif, veranda;
+    font-size: 50px;
+    font: heavy;
+   }
+
+
+#myfam {font-family: sans-serif, veranda;
+       font-size: 17px;
+       color: crimson;
+       font: heavy;
+       }
+
+.reg {font-family: sans-serif,veranda;
+        font-size: 17px;
+        color: dimgrey;
+        font: heavy;
+        }
+
+.header {font-family: sans-serif, inpact;
+        background-color: indianred;
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        }
+
+.lists {font-family: sans-serif, veranda;
+       font-size: 17px;
+       color: dimgrey;
+       font: heavy;
+      }
+
+ol.lower_alpha {list-style-type: lower-alpha;
+               font-family: sans-serif, veranda;
+               }
+
+ul.square {list-style-type: square;
+          font-family: sans-serif, veranda;
+         }
+
+table {
+  border-collapse: collapse;
+  border: 4px solid grey;
+  margin-left:30%;
+  font-family: sans-serif, veranda;
+  font-size:17px;
+  color:dimgrey;
+  
+}
+
+th, td{
+  border: 2px solid grey;
+  padding: 5px;
+  
+}
+
+th{font-size:24px;
+  background-color: #F9EBEA}
+
+tbody tr:nth-child(odd) {
+  background-color: ghostwhite;
+  }
+
+tfoot{background-color:ghostwhite;}
+
+body {margin:5%;}
+
